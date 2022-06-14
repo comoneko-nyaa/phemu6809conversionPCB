@@ -1,6 +1,6 @@
 # phemu6809conversionPCB
 この基板はMC6809をEMUZ80基板に搭載できるようにするための変換基板です。
-データはガーバーデータとなっています。これらのデータを使ってPCB製造業者に依頼すことができます。
+データはガーバーデータとなっています。これらのデータを使ってPCB製造業者に製造を依頼することができます。
 またホストCPUのPIC18F47Q43のファームウェアにはphemu6809が必要です。
 phemu6809のファームウェア一式は以下のリンクよりダウンロードしてください。
 https://drive.google.com/drive/folders/1cjAuUuZcGU9zM6drJ79GtU4rbpraYsOP
